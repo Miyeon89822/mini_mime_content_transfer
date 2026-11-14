@@ -1,6 +1,6 @@
 [project]
 name = "mini-mime-content-transfer"
-version = "0.1.1"
+version = "0.1.2"
 description = "Codec for encoding and decoding the seven MIME content-transfer-encodings."
 requires-python = ">=3.10"
 dependencies = []
